@@ -1,1 +1,140 @@
-hahs
+* {
+    font-family: 'Tajawal', sans-serif;
+}
+.toolbar__title {
+    font-family: 'Tajawal', sans-serif;
+}
+.tabbar__icon+.tabbar__label {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.badge{
+    margin-top: 11px;
+    color: #0076ff;
+    background-color: black;
+    border-radius: 1px;
+      border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+.list-group{
+    margin-bottom: 0px;
+    border-bottom: 1px solid #dacfcf;
+	height: 75px;
+	background-color: #fff;
+}
+.list-group p { color: #000 ;font-size: 18px; font-weight: 900
+	
+	
+	
+}
+.icon{
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+    border-radius: 10px;
+ 
+}
+.icon img {
+	width: 40px ;
+	height: 40px;
+	border-radius: 10px
+}
+
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: #fff;
+    border: 1px solid #c1c1c3;
+    
+	  border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+.list-group-item22:first-child{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    margin-bottom: 0;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+a{
+   color: white;
+   text-decoration: none;
+}
+a:hover{
+   color: white;
+   text-decoration: none;
+}
+a:focus{
+   color: white;
+   text-decoration: none;
+}
+bogdy{
+  background-color: #000000;
+}
+
+
+.form{
+background-color: black;
+border-radius: 1px 1px 70px 70px;
+}
+
+
+#name{
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+}
+.ggg{
+  color: white;
+  
+}
+
+#ins{
+  border-radius: 10%;
+}
+#tek{
+  border-radius: 10%;
+}
+#twe{
+  border-radius: 10%;
+}
+.fixed{
+  background-color: #000000BF;
+  color: #F8FBFFBF;
+  width: 94%;
+  padding: 15px;
+  right: 0%;
+  position: fixed;
+  bottom: 0%;
+}
+
+#rz{
+  color: #F9F9F9;
+  float: left;
+}
+.as{
+  border-radius: 1px;
+  right: 2%;
+  position: fixed;
+  bottom: 4%;
+}
+
+#app-list {
+  color: #000000;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
+}
+#ios{
+  font-size: 40px;
+}
