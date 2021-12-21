@@ -1,0 +1,18 @@
+Package: ws.hbang.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6664
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs//ws.hbang.newterm2_2.5_iphoneos-arm.deb
+Size: 2017880
+MD5sum: edfc0edf0e2080c1f7e3f762c19fb23e
+SHA1: b7137d41b2f51d3a9d6047405ba2f54485694f58
+SHA256: 20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
+SHA512: ae311018177fede68ef80f7decd7df2d0455e98c5321b6adeed1704a8aaea113580a34ce6ae12aa8d652db83c11d34ae08b6348e0c10be6d807c1c63ab0899fc
+Description: A powerful terminal app for iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 2
