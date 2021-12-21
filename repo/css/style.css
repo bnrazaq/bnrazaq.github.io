@@ -1,1 +1,10 @@
-hshs
+.icon{
+  font-size: 25px;
+}
+.icon a{
+  text-decoration: none;
+  color: black;
+}
+.icon i{
+  margin: 3%;
+}
