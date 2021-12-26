@@ -32,6 +32,6 @@ SHA256: c4a174e0bec525e50feb92c1849b2a372c125a1573f43709afe9f4fd6a518fa0
 Section: Tweaks
 Description: Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+)
 Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/cconoff.html
+Depiction: https://bnrazaq.github.io/repo/Depiction/cconof.html
 Name: CC On & Off
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/cconoff.json
