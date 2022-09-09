@@ -413,11 +413,6 @@
             name: name,
             message: message
         });
-        document.getElementById('message').value = "";
-        alert('message has sent');
-
-    });
-
     const newMsg = ref(database, 'messages/');
     onChildAdded(newMsg, (data) => {
         if(data.val().name != myName) {
