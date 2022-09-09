@@ -13,12 +13,14 @@ console.log(process.env.APP_ID);
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
-  authDomain: process.env.AUTH_DOMAIN,
-  projectId: process.env.PROJECT_ID,
-  storageBucket: process.env.STORAGE_BUCKET,
-  messagingSenderId: process.env.MESSAGING_SENDER_ID,
-  appId: process.env.APP_ID,
+  
+  apiKey: "AIzaSyAoZ5XVXwdE_cXwZ9yjZnBrZ93XbL1TNm0",
+        authDomain: "bnrazaq-2.firebaseapp.com",
+        databaseURL: "https://bnrazaq-2-default-rtdb.firebaseio.com",
+        projectId: "bnrazaq-2",
+        storageBucket: "bnrazaq-2.appspot.com",
+        messagingSenderId: "318840610848",
+        appId: "1:318840610848:web:1a8ee51eeaff2ce8e41c45"
 };
 
 // Initialize Firebase
