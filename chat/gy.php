@@ -18,9 +18,22 @@
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
     var myName = prompt("enter your name")
+
+function sendMessage(){
+var message = document.getElementByid("message").value;
+
+firebase.database().ref("messages").push().set({
+ "sender": myName,
+ "message": message,
+});
+
+ return false;
+}
 </script>
 
-<form>
+<form onsubmit="return sendMessage();">
     <input id="message" placeholder="enter massege" autocomplete="off">
+
+<input type="submit">
     
-</fotm>
+</form>
