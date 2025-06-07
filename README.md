@@ -1,1 +1,1 @@
-# bnrazaq.github.io/bot/bot.php
+# bnrazaq.github.io
